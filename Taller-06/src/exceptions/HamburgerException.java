@@ -1,6 +1,6 @@
 package exceptions;
 
-public class HamburgerException extends Throwable {
+public abstract class HamburgerException extends Throwable {
     public HamburgerException() {
         super();
     }
