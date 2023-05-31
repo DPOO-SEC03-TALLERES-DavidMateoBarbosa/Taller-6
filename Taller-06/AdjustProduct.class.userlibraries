@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="junit.junit5.api">
+    <archive path="C:/Users/LoganTaurus/.m2/repository/org/junit/junit5-api/5.0.0-ALPHA/junit5-api-5.0.0-ALPHA.jar" />
+    <archive path="C:/Users/LoganTaurus/.m2/repository/org/opentest4j/opentest4j/1.0.0-ALPHA/opentest4j-1.0.0-ALPHA.jar" />
+    <archive path="C:/Users/LoganTaurus/.m2/repository/org/junit/junit-commons/5.0.0-ALPHA/junit-commons-5.0.0-ALPHA.jar" />
+  </library>
+</eclipse-userlibraries>
+

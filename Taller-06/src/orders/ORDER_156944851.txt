@@ -1,0 +1,8 @@
+Order ID: 156944851
+client: Logan Taurus
+client address: dm.bm@outlook.com
+roasted meat: $1000
+rice with meat-> {}: 0
+price: 1000
+IVA 19% : 190
+total: 1190
